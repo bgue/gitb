@@ -1,7 +1,9 @@
-# gitb
-MyBinder-based repo replacement for Carpentries' git lessons.
+# gitb - an empty MyBinder 
+This repo exists to allow a simple web shell for Carpentries' git lessons.
 
-We're running across learners who don't have access to install the packages for git or openrefine. This repo is a bare-bones option to allow a MyBinder container to be run. 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bgue/gitb/HEAD)
+
+On a remotely delivered We're running across learners who don't have access to install the packages for git or openrefine. This repo is a bare-bones option to allow a MyBinder container to be run. 
 
 Users should:
  1. Launch the binder link
