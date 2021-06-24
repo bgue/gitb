@@ -1,4 +1,4 @@
-# gitb - a web shell for  
+# gitb - a web shell for Carpentries lessons
 This repo exists to allow a simple, temporary web shell for Carpentries' git lessons.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bgue/gitb/HEAD)
